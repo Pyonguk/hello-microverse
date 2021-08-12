@@ -10,16 +10,40 @@ The goal is to master all of the tools and best practices learned about in Micro
 
 ## Built With
 
-- Major languages
-    HTML & CSS
+- HTML
 
-- Technologies used
-    linters
+- CSS
+
+- Linters
+
+- Node.js
+
+- JSON
+
+## Live Demo
+
+[Live Demo Link](https://pyonguk.github.io/hello-microverse/)
 
 ## Authors
 
 👤 **Author1**
 
 - GitHub: [@Pyonguk](https://github.com/Pyonguk)
-=======
-# Hello Microverse
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to [Microverse](https://github.com/microverseinc) for the readme template and linters config.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.

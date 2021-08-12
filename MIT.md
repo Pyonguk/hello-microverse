@@ -1,4 +1,4 @@
-## Copyright 2021, [YOUR NAME]
+## Copyright 2021, Pyonguk Agustin Rodriguez Mayorga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this GitHub Repository and associated documentation files, to deal in the GitHub Repository without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the GitHub Repository, and to permit persons to whom the GitHub Repository is furnished to do so, subject to the following conditions:
 
